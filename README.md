@@ -11,21 +11,26 @@
 
 ### Modules
 
-#### `modulename.js`
+#### `Form.js`
+#### `if.js`
+#### `todoList.js`
 
 ##### Exported Values and Methods
+* todo
+ * handleInputChange
+ * callAPI
+ * addItem
+ * deleteItem
+ * saveItem
+ * toggleComplete
+ * toggleDetails
+ * componentDidMount
 
-### Setup
-#### `.env` requirements
-* `PORT` - Port Number
-* `MONGODB_URI` - URL to the running mongo instance/db
+
 
 #### Running the app
 * `npm start`
-* Endpoint: `/foo/bar/`
-  * Returns a JSON object with abc in it.
-* Endpoint: `/bing/zing/`
-  * Returns a JSON object with xyz in it.
+
   
 #### Tests
 * How do you run tests?

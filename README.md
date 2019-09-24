@@ -7,9 +7,7 @@
 ### Links and Resources
 * Practice[Link to CodeSandBox.io](https://codesandbox.io/embed/class-29-starter-code-huq2k)
 
-* Todo before[Link to CodeSandBox.io]()
-
-* Todo after[Link to CodeSandBox.io]()
+* Todo [Link to CodeSandBox.io](https://codesandbox.io/s/charming-flower-vrfb8)
 
 
 ### Modules
